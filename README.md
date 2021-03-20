@@ -1,2 +1,1 @@
-# git-inicial
-Test repository
+Prueba inicial del repositorio
